@@ -7,3 +7,6 @@
 [submodule "watson_solution/IBM-Watson-Assisitant"]
 	path = watson_solution/IBM-Watson-Assisitant
 	url = https://github.com/hoquesumya/IBM-Watson-Assisitant
+[submodule "andorid_solution/COVID19_AI_MENTAL_HEALTH_APP_FRONTEND"]
+	path = andorid_solution/COVID19_AI_MENTAL_HEALTH_APP_FRONTEND
+	url = https://github.com/hoquesumya/COVID19_AI_MENTAL_HEALTH_APP_FRONTEND
