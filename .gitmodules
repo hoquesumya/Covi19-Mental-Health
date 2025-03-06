@@ -4,3 +4,6 @@
 [submodule "Alexa_solution/Alexa-Covid-19-CBT-Assistance"]
 	path = Alexa_solution/Alexa-Covid-19-CBT-Assistance
 	url = https://github.com/hoquesumya/Alexa-Covid-19-CBT-Assistance
+[submodule "watson_solution/IBM-Watson-Assisitant"]
+	path = watson_solution/IBM-Watson-Assisitant
+	url = https://github.com/hoquesumya/IBM-Watson-Assisitant
