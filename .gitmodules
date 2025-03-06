@@ -1,3 +1,6 @@
 [submodule "Nao_solution/CBTtherapy"]
 	path = Nao_solution/CBTtherapy
 	url = https://github.com/hoquesumya/CBTtherapy
+[submodule "Alexa_solution/Alexa-Covid-19-CBT-Assistance"]
+	path = Alexa_solution/Alexa-Covid-19-CBT-Assistance
+	url = https://github.com/hoquesumya/Alexa-Covid-19-CBT-Assistance
